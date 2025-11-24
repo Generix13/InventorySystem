@@ -1,0 +1,11 @@
+Bear Brand Sachet 33g,25,12.0,15.0
+Century Tuna Can,12,32.0,40.0
+Coke 1000ml Bottle,12,37.0,45.0
+Coke 300ml Bottle,10,20.0,25.0
+Lucky Me Pancit Canton,15,16.0,20.0
+Nescaf� 3-in-1 Sachet,20,12.0,15.0
+Piattos Cheese (Small Pack),15,16.0,20.0
+SkyFlakes Crackers,20,14.0,18.0
+Sprite 300ml Bottle,10,20.0,25.0
+Surf Powder Detergent 55g,30,9.0,12.0
+Yakult (1 Bottle),20,12.0,15.0
