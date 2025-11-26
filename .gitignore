@@ -1,0 +1,8 @@
+.vs/
+*.exe
+*.obj
+*.user
+*.suo
+*.log
+*.csv
+*.txt
